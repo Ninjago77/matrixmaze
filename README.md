@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Matrix Tilt</h2>
-    <img src="banner.png" alt="banner"/>
+    <img src="frontimages/banner.png" alt="banner"/>
 </div>
 
 ---
@@ -24,7 +24,7 @@ Given the open source nature and easy to use code, this board can display an inc
 
 ### Pictures
 
-
+![waw](</frontimages/controller.png>)
 
 ---
 
