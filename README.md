@@ -36,6 +36,8 @@ Given the open source nature and easy to use code, this board can display an inc
 | NEMA17 Motors (48mm)          | 2         |
 | Bearing (14mm OD, shaft ID)   | 2         |
 | NEMA17 Shaft Collar           | 2         |
+| USB C Power Delivery Module   | 1         |
+| USB C Cable and Outlet Brick  | 1         |
 | A4988 Stepper Drivers         | 2         |
 | 8x8 WS2812B LED Matrix        | 6         |
 | ESP32C3 MakerGo SuperMini     | 2         |
